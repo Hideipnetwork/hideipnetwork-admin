@@ -18,7 +18,7 @@ npm i && npm run start
 
 ## Then 💥 
 
-1.If you want to modify the information, please see [config](https://github.com/Hideipnetwork/hideipnetwork-admin/src/config.js)
+1.If you want to modify the information, please see [config](https://github.com/Hideipnetwork/hideipnetwork-admin/blob/master/src/config.js)
 
 2.After getting the interface, convert it to base64 and replace it [global](https://github.com/Hideipnetwork/hideipnetwork-web/blob/main/public/global.js)
 
