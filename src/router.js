@@ -34,6 +34,8 @@ async function routes(fastify, options) {
                     initPwdShow: config.initPwdShow,
                     initPwd: Base64.encode(config.pwd),
                     initPlb: config.initPlb,
+                    url: Base64.encode(config.url),
+                    plb: config.plb
                 }
             })
         } else if (body.reqFImg) {
